@@ -1,4 +1,5 @@
-#aly rosenberg HW10
+#Alyson Rosenberg 
+#HW10
 
 import xml.etree.ElementTree as ET
 import sqlite3
